@@ -29,7 +29,10 @@ I'm studying for an **M.Sc. in Industrial Mathematics at TU Dortmund**. I enjoy 
   <img src="https://img.shields.io/badge/pandas-30363D?style=for-the-badge" alt="pandas">
   <img src="https://img.shields.io/badge/scikit--learn-30363D?style=for-the-badge" alt="scikit-learn">
   <img src="https://img.shields.io/badge/Matplotlib-30363D?style=for-the-badge" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/ChatGPT%20Data-30363D?style=for-the-badge" alt="ChatGPT Data">
 </p>
+
+I'm exploring **ChatGPT Data** for assisted analysis and documentation.
 
 ## Selected projects
 
