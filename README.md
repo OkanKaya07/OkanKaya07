@@ -5,11 +5,12 @@
   <img src="assets/mad-scientist.gif" alt="Mad scientist pose GIF" width="480">
 </p>
 
-I'm studying for an **M.Sc. in Industrial Mathematics at TU Dortmund**. I enjoy using mathematics and code to explore data, build machine learning models and understand biological datasets.
+I'm studying for an **M.Sc. in Industrial Mathematics at TU Dortmund**. I enjoy using mathematics and code to explore data, build machine learning models and solve applied problems.
 
 - I'm building projects in **data analysis, machine learning and bioinformatics**.
-- I'm learning more about **model evaluation and statistical methods for biological data**.
-- I'm looking for a **working student role in AI or data science in Dortmund**.
+- Recently, in **Simulation Techniques**, I've been working with **PowerShell, Python and Visual Studio** as part of my Industrial Mathematics MSc.
+- In **Applied Numerical Computing and Deep Learning in Python**, I'm revisiting **Python fundamentals** and studying **numerical computing methods and machine learning**, building on what I already know.
+- I'm looking for a **working student role in AI or data science in Dortmund and the surrounding area**.
 
 ## Tools I use
 
@@ -27,12 +28,27 @@ I'm studying for an **M.Sc. in Industrial Mathematics at TU Dortmund**. I enjoy 
     <td align="center" width="100"><img src="assets/icons/duckdb.svg" alt="DuckDB logo" width="48" height="48"><br><strong>DuckDB</strong></td>
   </tr>
 </table>
+
+## Libraries and learning tools
+
+My current Python learning also covers **VS Code, Anaconda and Seaborn**.
+
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="assets/icons/r.svg" alt="R logo" width="48" height="48"><br><strong>R</strong></td>
+    <td align="center" width="100"><img src="assets/icons/numpy.svg" alt="NumPy logo" width="48" height="48"><br><strong>NumPy</strong></td>
+    <td align="center" width="100"><img src="assets/icons/pandas.svg" alt="pandas logo" width="48" height="48"><br><strong>pandas</strong></td>
+    <td align="center" width="100"><img src="assets/icons/scikitlearn.svg" alt="scikit-learn logo" width="48" height="48"><br><strong>scikit-learn</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="assets/icons/matplotlib.svg" alt="Matplotlib logo" width="48" height="48"><br><strong>Matplotlib</strong></td>
+    <td align="center" width="100"><img src="assets/icons/vscode.svg" alt="Visual Studio Code logo" width="48" height="48"><br><strong>VS Code</strong></td>
+    <td align="center" width="100"><img src="assets/icons/anaconda.svg" alt="Anaconda logo" width="48" height="48"><br><strong>Anaconda</strong></td>
+    <td align="center" width="100"><img src="assets/icons/seaborn.svg" alt="Seaborn logo" width="48" height="48"><br><strong>Seaborn</strong></td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/R-30363D?style=for-the-badge" alt="R">
-  <img src="https://img.shields.io/badge/NumPy-30363D?style=for-the-badge" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-30363D?style=for-the-badge" alt="pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-30363D?style=for-the-badge" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Matplotlib-30363D?style=for-the-badge" alt="Matplotlib">
   <img src="https://img.shields.io/badge/ChatGPT%20Data-30363D?style=for-the-badge" alt="ChatGPT Data">
 </p>
 
