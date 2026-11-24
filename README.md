@@ -1,18 +1,25 @@
 <h1 align="center">Hi, I'm Okan Kaya 👋</h1>
-<h3 align="center">AI &amp; Data Science</h3>
+<h3 align="center">Industrial Mathematics · Python, SQL &amp; Data Science</h3>
+
+I'm an **M.Sc. Industrial Mathematics student at TU Dortmund** and a Mathematics graduate from Yeditepe, where I finished first in my department. My **Python, SQL and Excel** projects focus on data quality, analysis and reproducible results.
+
+I'm looking for a **working student role in AI or data science in Dortmund and the surrounding area**.
+
+## Selected projects
+
+- **[Retail data quality and SQL reporting](https://github.com/OkanKaya07/data-science-portfolio/tree/main/projects/01-retail-analytics)** — Audited **541,909 invoice lines** before reporting monthly positive sales, distinct orders and average order value with SQL CTEs and `LAG`.
+  [SQL](https://github.com/OkanKaya07/data-science-portfolio/blob/main/sql/retail.sql) · [Audit](https://github.com/OkanKaya07/data-science-portfolio/blob/main/reports/retail_audit.json) · [Results](https://github.com/OkanKaya07/data-science-portfolio/blob/main/reports/monthly_sales.csv)
+- **[Air-quality validation pipeline](https://github.com/OkanKaya07/data-science-portfolio/tree/main/projects/05-python-air-quality)** — Parsed **9,357 observations** into SQLite, preserved missing values as `NULL`, and checked duplicate timestamps and repeated loading.
+  [Code](https://github.com/OkanKaya07/data-science-portfolio/blob/main/projects/05-python-air-quality/air_quality.py) · [Tests](https://github.com/OkanKaya07/data-science-portfolio/blob/main/projects/05-python-air-quality/test_air_quality.py) · [Results](https://github.com/OkanKaya07/data-science-portfolio/blob/main/projects/05-python-air-quality/reports/daily_summary.csv)
+- **[Excel bike rental dashboard](https://github.com/OkanKaya07/data-science-portfolio/tree/main/projects/04-excel-bike-operations)** — A filterable workbook covering **731 days**, with **3,292,679 rentals reconciled to the source with zero difference**.
+
+[All nine projects, including machine learning and bioinformatics](https://github.com/OkanKaya07/data-science-portfolio) · [My website](https://okankaya07.github.io/)
 
 <p align="center">
-  <img src="assets/mad-scientist.gif" alt="Mad scientist pose GIF" width="480">
+  <img src="assets/mad-scientist.gif" alt="Mad scientist pose GIF" width="280">
 </p>
 
-I'm studying for an **M.Sc. in Industrial Mathematics at TU Dortmund**. I enjoy using mathematics and code to explore data, build machine learning models and solve applied problems.
-
-- I'm building projects in **data analysis, machine learning and bioinformatics**.
-- Recently, in **Simulation Techniques**, I've been working with **PowerShell, Python and Visual Studio** as part of my Industrial Mathematics MSc.
-- In **Applied Numerical Computing and Deep Learning in Python**, I'm revisiting **Python fundamentals** and studying **numerical computing methods and machine learning**, building on what I already know.
-- I'm looking for a **working student role in AI or data science in Dortmund and the surrounding area**.
-
-## Tools I use
+## Development and analysis toolbox
 
 <table align="center">
   <tr>
@@ -29,9 +36,11 @@ I'm studying for an **M.Sc. in Industrial Mathematics at TU Dortmund**. I enjoy 
   </tr>
 </table>
 
+**MotherDuck and DuckDB are part of my current SQL learning.** The linked pipeline and reporting projects currently use SQLite.
+
 ## Libraries and learning tools
 
-My current Python learning also covers **VS Code, Anaconda and Seaborn**.
+VS Code, Anaconda and Seaborn are tools I'm exploring alongside my coursework and projects.
 
 <table align="center">
   <tr>
@@ -48,20 +57,16 @@ My current Python learning also covers **VS Code, Anaconda and Seaborn**.
   </tr>
 </table>
 
+## Recently
+
+- In **Simulation Techniques**, I've been working with **PowerShell, Python and Visual Studio** as part of my Industrial Mathematics MSc.
+- In **Applied Numerical Computing and Deep Learning in Python**, I'm revisiting **Python fundamentals** and studying **numerical computing methods and machine learning**, building on what I already know.
+
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT%20Data-30363D?style=for-the-badge" alt="ChatGPT Data">
 </p>
 
-I'm exploring **ChatGPT Data** for assisted analysis and documentation.
-
-## Selected projects
-
-- **[Retail sales with Python and SQL](https://github.com/OkanKaya07/data-science-portfolio/tree/main/projects/01-retail-analytics)** — Cleaning invoice data and comparing monthly sales, order counts and average order value.
-- **[Bike demand estimation](https://github.com/OkanKaya07/data-science-portfolio/tree/main/projects/03-bike-demand)** — Comparing regression models with validation that keeps later dates separate.
-- **[Excel bike rental dashboard](https://github.com/OkanKaya07/data-science-portfolio/tree/main/projects/04-excel-bike-operations)** — Exploring seasonal demand with filters, formulas and charts.
-- **[Pasilla RNA-seq exploration](https://github.com/OkanKaya07/data-science-portfolio/tree/main/projects/07-pasilla-rnaseq)** — Inspecting sample variation with normalization and PCA.
-
-[All projects](https://github.com/OkanKaya07/data-science-portfolio) · [My website](https://okankaya07.github.io/)
+I'm exploring **ChatGPT Data** for assisted analysis and documentation. The educational portfolio describes AI assistance and links the code, source data and validation checks.
 
 ## Connect with me
 
