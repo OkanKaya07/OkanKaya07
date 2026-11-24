@@ -19,8 +19,12 @@ I'm studying for an **M.Sc. in Industrial Mathematics at TU Dortmund**. I enjoy 
     <td align="center" width="100"><img src="assets/icons/python.svg" alt="Python logo" width="48" height="48"><br><strong>Python</strong></td>
     <td align="center" width="100"><img src="assets/icons/linux.svg" alt="Linux Tux logo" width="48" height="48"><br><strong>Linux</strong></td>
     <td align="center" width="100"><img src="assets/icons/powershell.svg" alt="PowerShell logo" width="48" height="48"><br><strong>PowerShell</strong></td>
+  </tr>
+  <tr>
     <td align="center" width="100"><img src="assets/icons/sqlite.svg" alt="SQLite logo" width="48" height="48"><br><strong>SQL (SQLite)</strong></td>
     <td align="center" width="100"><img src="assets/icons/excel.svg" alt="Microsoft Excel logo" width="48" height="48"><br><strong>Excel</strong></td>
+    <td align="center" width="100"><img src="assets/icons/motherduck.svg" alt="MotherDuck logo" width="48" height="48"><br><strong>MotherDuck</strong></td>
+    <td align="center" width="100"><img src="assets/icons/duckdb.svg" alt="DuckDB logo" width="48" height="48"><br><strong>DuckDB</strong></td>
   </tr>
 </table>
 <p align="center">
