@@ -62,11 +62,20 @@ VS Code, Anaconda and Seaborn are tools I'm exploring alongside my coursework an
 - In **Simulation Techniques**, I've been working with **PowerShell, Python and Visual Studio** as part of my Industrial Mathematics MSc.
 - In **Applied Numerical Computing and Deep Learning in Python**, I'm revisiting **Python fundamentals** and studying **numerical computing methods and machine learning**, building on what I already know.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT%20Data-30363D?style=for-the-badge" alt="ChatGPT Data">
+## AI tools and agent workflows
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-30363D?style=flat-square" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Codex-30363D?style=flat-square" alt="Codex">
+  <img src="https://img.shields.io/badge/Gemini-30363D?style=flat-square" alt="Gemini">
+  <img src="https://img.shields.io/badge/Google%20Antigravity-30363D?style=flat-square" alt="Google Antigravity">
+  <img src="https://img.shields.io/badge/Claude%20Code-30363D?style=flat-square" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Subagent%20workflows-30363D?style=flat-square" alt="Subagent workflows">
 </p>
 
-I'm exploring **ChatGPT Data** for assisted analysis and documentation. The educational portfolio describes AI assistance and links the code, source data and validation checks.
+I use **ChatGPT, Codex, Gemini, Google Antigravity and Claude Code** to support coding, documentation and debugging. I'm exploring **subagent workflows** for planning, implementation and review, and check generated code against source data and tests.
+
+I'm also exploring **ChatGPT Data** for assisted analysis. The educational portfolio describes AI assistance and links the code, source data and validation checks.
 
 ## Connect with me
 
