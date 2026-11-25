@@ -66,14 +66,18 @@ VS Code, Anaconda and Seaborn are tools I'm exploring alongside my coursework an
 
 ## AI tools and agent workflows
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-30363D?style=flat-square" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/Codex-30363D?style=flat-square" alt="Codex">
-  <img src="https://img.shields.io/badge/Gemini-30363D?style=flat-square" alt="Gemini">
-  <img src="https://img.shields.io/badge/Google%20Antigravity-30363D?style=flat-square" alt="Google Antigravity">
-  <img src="https://img.shields.io/badge/Claude%20Code-30363D?style=flat-square" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Subagent%20workflows-30363D?style=flat-square" alt="Subagent workflows">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="150"><img src="assets/icons/chatgpt.svg" alt="ChatGPT logo" width="48" height="48"><br><strong>ChatGPT</strong></td>
+    <td align="center" width="150"><img src="assets/icons/codex.svg" alt="Codex logo" width="48" height="48"><br><strong>Codex</strong></td>
+    <td align="center" width="150"><img src="assets/icons/gemini.svg" alt="Gemini logo" width="48" height="48"><br><strong>Gemini</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><img src="assets/icons/antigravity.svg" alt="Google Antigravity logo" width="48" height="48"><br><strong>Google Antigravity</strong></td>
+    <td align="center" width="150"><img src="assets/icons/claude-code.svg" alt="Claude Code logo" width="48" height="48"><br><strong>Claude Code</strong></td>
+    <td align="center" width="150"><img src="assets/icons/subagents.svg" alt="Subagent workflows diagram" width="48" height="48"><br><strong>Subagent workflows</strong></td>
+  </tr>
+</table>
 
 I use **ChatGPT, Codex, Gemini, Google Antigravity and Claude Code** to support coding, documentation and debugging. I'm exploring **subagent workflows** for planning, implementation and review, and check generated code against source data and tests.
 
