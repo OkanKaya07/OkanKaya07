@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I'm Okan Kaya 👋</h1>
+
+<img align="right" src="assets/okan-kaya.png" alt="Okan Kaya" width="150">
 <h3 align="center">Industrial Mathematics · Python, SQL &amp; Data Science</h3>
 
 I'm an **M.Sc. Industrial Mathematics student at TU Dortmund** and a Mathematics graduate from Yeditepe, where I finished first in my department. My **Python, SQL and Excel** projects focus on data quality, analysis and reproducible results.
